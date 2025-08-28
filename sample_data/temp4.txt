@@ -1,0 +1,14 @@
+C001,Minh Dinh,18 Irwin Street,0421473243,3,VIP
+I001-2001
+I002-1988
+I005-2015
+C002,Hong Wang,20 Irwin Street,0424173255,0,Guest
+C003,Linh Nguyen,12 Brunswick Street,0424173255,0,Guest
+C005,John Cain,45 Sydney Road,0424325123,1,Regular
+I004-1999
+C006,Dylan Case,02 West Drive,0424125598,1,Regular
+I003-1992
+C008,Have Name,123 District,090909090,0,Regular
+C021,plep ple,23 ahc isa,0982103,3,VIP
+T010-8932
+T010-8392

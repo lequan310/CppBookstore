@@ -1,0 +1,15 @@
+I001-2001,Medal of Honour,Game,1-week,3,3.99
+I002-1988,White Castle,Record,1-week,3,0.99,Comedy
+I003-1992,Alpha Dog,Record,1-week,3,1.99,Action
+I004-1999,Rat Race,DVD,1-week,3,1.99,Horror
+I005-2015,Halo,Game,2-day,2,4.99
+I006-2013,Halloween,DVD,2-day,1,0.99,Horror
+I00-2013,Doggo,DVD,1-week,10,0.99,Drama
+I007-2015,Halo,Record,2-day,2,4.99,Action
+I008-2015,Halo,DVD,2-day,2,4.99,Action
+I010-2007,     ,Record,1-week,5,5.99,Drama
+I001-1985,Old Film,Game,2-day,2,0.99,Horror
+I003-1988,White Castle,DVD,1-week,3,0.99,Comedy,Blank
+I004-2000,Testing Method,Record,1-week,5,1.99
+I005-1234,Second,Record,1-week,5,-1.99,Drama
+I010-1234,Halloween,DVD,2-day,-7,0.99,Horror
